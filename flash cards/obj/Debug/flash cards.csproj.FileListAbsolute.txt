@@ -1,0 +1,19 @@
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\flash cards.csprojResolveAssemblyReference.cache
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\CreationWindow.baml
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\Window1.baml
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\CreationWindow.g.cs
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\Window1.g.cs
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\App.g.cs
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\flash cards_MarkupCompile.cache
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\flash cards.g.resources
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\bin\Debug\flash cards.exe.config
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\bin\Debug\flash cards.exe
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\bin\Debug\flash cards.pdb
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\flash cards.exe
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\flash cards.pdb
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\openSet.baml
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\openSet.g.cs
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\studyHome.baml
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\studyHome.g.cs
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\Window2.baml
+C:\Users\s-nbojanic\Documents\SharpDevelop Projects\flash cards\flash cards\obj\Debug\Window2.g.cs

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="flash_cards.CreationWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="flash_cards"
+	Height="300"
+	Width="300">
+	<Grid>
+		<TextBlock
+			Width="258"
+			Height="34"
+			FontSize="22"
+			x:Name="title"
+			TextAlignment="Center"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Top"
+			Margin="0,18,0,0">
+			<Run
+				Text="Create Set" />
+		</TextBlock>
+		<TextBox
+			x:Name="termBox"
+			Text=""
+			TextAlignment="Left"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Top"
+			Margin="60,76,60,0" />
+		<TextBox
+			x:Name="definitionBox"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Top"
+			Margin="60,131,60,0" />
+		<TextBlock
+			x:Name="termTitle"
+			TextAlignment="Center"
+			RenderTransformOrigin="0.5,1.3125"
+			Width="29"
+			Height="16"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Top"
+			Margin="0,52,0,0">
+			<Run
+				Text="Term:" />
+		</TextBlock>
+		<TextBlock
+			x:Name="definitionTitle"
+			TextAlignment="Center"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Top"
+			Margin="0,107,0,0">
+			<Run
+				Text="Definition:" />
+		</TextBlock>
+		<Button
+			Width="75"
+			Height="23"
+			Content="Add"
+			x:Name="addButton"
+			Click="addButton_Click"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="60,222,0,0" />
+		<Button
+			Width="75"
+			Height="23"
+			x:Name="Save"
+			Click="saveButton_Click"
+			Content="Save"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="155,222,0,0" />
+		<TextBox
+			x:Name="pathBox"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Stretch"
+			VerticalAlignment="Top"
+			Margin="60,186,60,0" />
+		<TextBlock
+			x:Name="pathTitle"
+			TextAlignment="Center"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Top"
+			Margin="0,157,0,0"
+			Text="">
+			<Run
+				Text="Path:" />
+		</TextBlock>
+	</Grid>
+</Window>
